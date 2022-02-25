@@ -4,11 +4,13 @@ knowledge about computer vision
 ## beginner
 
 图像处理：
+
 1、Course在线课程：杜克大学：https://www.coursera.org/learn/image-processing
 
 2、数字图像处理：http://www.imageprocessingplace.com/
 
 数学：
+
 1、线性代数：https://www.khanacademy.org/math/linear-algebra
 
 2、奇异值分解：
